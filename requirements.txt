@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+matplotlib
+yfinance
+tensorflow
+scikit-learn
+xgboost
+fpdf
+textblob
+ta
+plotly
+openpyxl
+keras
