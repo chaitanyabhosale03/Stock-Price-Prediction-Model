@@ -3,7 +3,7 @@
 This project is a web-based Stock Price Prediction Dashboard built with Streamlit. It allows users to analyze, visualize, and predict stock prices using various machine learning models and technical indicators. The app also provides sentiment analysis and generates PDF reports for selected stocks.
 
 > **IMPORTANT NOTE:**
-> If the app is not working due to data fetching issues, try using [polygon.io](https://polygon.io/) as a data source. If you don't know how to do this, message me for help.
+> If the app is not working due to data fetching issues, try using [polygon.io](https://polygon.io/) as a data source. i also created an upgraded version based on polygon.io fetch data. so, If you don't know how to do this, message me for help by my portfolio.
 
 ## Features
 - **User Login**: Simple authentication for dashboard access.
